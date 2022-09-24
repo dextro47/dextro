@@ -1,0 +1,2 @@
+# dextro
+Mavi tik
